@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @rRomero2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Ryan Romero
 
-<!---
-rRomero2/rRomero2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a U3 student at McGill University doing a BSc in Physiology, with a minor in Political Science. I have taken a handful of Computer Science courses, and have an intermediate knowledge of Python, Java, C/C++ and beginner knowledge of BASH, HTML/CSS. Through COMP courses, I have also gotten a basic understanding of Unix systems. I'm interested in learning and focusing more on web development and AI in the coming years. Currently, I'm increasing my Python skills on my own by learning about API implementation and frameworks for facilitating website building.
+
